@@ -1,0 +1,64 @@
+.heading {
+    background: #44317c;
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 100;
+}
+.heading > span{
+    font-weight: 100;
+    font-style: italic;
+    font-size: 14px;
+}
+form .row{
+    margin-bottom:10px;
+}
+.content-message{
+    padding: 30px 20px;
+    border: 1px solid #44317c;
+    background: #d9d5e4;
+    color: #44317c;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.layoutdisplay{
+    padding:20px;
+    border: 1px solid #44317c;
+    background:#d9d5e4;
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+.bottomButton{
+    margin-bottom:50px;
+    text-align: center;
+}
+.flexcolor{
+    color:#44317c;
+}
+.buttona{
+    padding:10px;
+    border: 1px solid #44317c;
+    background:#d9d5e4;
+    border-radius: 5px;
+}
+.buttonb{
+    background:#1d6ba8;
+    border: 1px solid #1d6ba8;
+    border-radius: 5px;
+    padding:10px;
+    color:#fff;
+}
+.addressa,.groupb,.groupc,.groupd,.row.emGender,.row.emp,.row.empSer,.addressb,.row.colc,.row.final,.display_addressacomple,.display_employeeGender,.display_employeeatt,.display_employeeposition,.display_employeeservice,.display_employeeAddressAdd,.errorPostCode,.errorPostCodeEmployee{
+    display:none;
+}
+.displayME{
+    display:contents;
+}
+.centerText{
+    text-align: center;
+}
+.errorPostCode,.errorPostCodeEmployee,.ErroSubmit{
+    color:#ff0000;
+}
